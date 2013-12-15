@@ -8,9 +8,11 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Swapnil Abnave"]
   s.email       = ["swapnilabnave42@gmail.com"]
-  c.hompage     = 'https://github.com/swapnilabnave/seldom'
+  s.homepage     = 'https://github.com/swapnilabnave/seldom'
   s.date        = %q{2013-12-07}
+  s.description = 'Genreate html from selector'
 	s.summary     = %q{seldom is seldom}
+  s.license     = 'MIT'
 
   s.add_development_dependency 'rake'
   s.add_development_dependency 'rspec', '~> 2.14'
