@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+begin
+  require 'seldom'
+rescue LoadError
+  require 'rubygems'
+  require 'seldom'
+end
