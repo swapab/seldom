@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version = Seldom::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Swapnil Abnave"]
-  s.email       = ["swapnil@swap.in"]
+  s.email       = ["swapnilabnave42@gmail.com"]
   s.date = %q{2013-12-07}
 
 	s.summary = %q{seldom is seldom}
